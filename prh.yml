@@ -1,0 +1,6 @@
+version: 1
+
+imports:
+  - ./rules/すでに.yml
+  - ./rules/かつ.yml
+  - ./rules/また.yml

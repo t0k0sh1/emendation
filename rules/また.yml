@@ -1,0 +1,5 @@
+version: 1
+rules:
+  - expected: また$1
+    patterns:
+      - /又(、|は|は、)/

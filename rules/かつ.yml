@@ -1,0 +1,5 @@
+version: 1
+rules:
+  - expected: かつ
+    patterns:
+      - /且つ|且/

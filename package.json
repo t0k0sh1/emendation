@@ -1,0 +1,17 @@
+{
+  "name": "emendation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "textlint ./files/*.txt",
+    "lint:fix": "textlint --fix ./files/*.txt"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "textlint": "^13.4.1",
+    "textlint-rule-preset-ja-technical-writing": "^9.0.0"
+  }
+}

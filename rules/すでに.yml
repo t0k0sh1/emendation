@@ -1,0 +1,5 @@
+version: 1
+rules:
+  - expected: すでに
+    patterns:
+      - 既に
